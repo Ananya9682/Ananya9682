@@ -45,7 +45,3 @@ I'm a computer science student interested in programming, web development, and b
 
 ### 📫 Connect with me
 - GitHub: [Ananya9682](https://github.com/Ananya9682)
-
-### 📊 GitHub Activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananya9682&theme=github-compact)
