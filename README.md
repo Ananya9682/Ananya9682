@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ananya Singh 👋
 
-<!--
-**Ananya9682/Ananya9682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student at GL Bajaj  
+📍 Noida, India
 
-Here are some ideas to get you started:
+I'm a computer science student interested in programming, web development, and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Currently Learning
+- C++
+- Python
+- Data Structures and Algorithms
+- Web Development
+
+### 🚀 Projects
+**SpendWise – Personal Expense Tracker**
+- A web application to manage expenses, monthly budgets, and spending reports.
+- Built using HTML, CSS, JavaScript, Supabase, and Chart.js.
+- [View Project](https://github.com/Ananya9682/SpendWise)
+
+### 🛠️ Technologies & Tools
+- C++ | Python
+- HTML | CSS | JavaScript
+- Supabase | PostgreSQL
+- Git | GitHub | VS Code
+
+### 🎯 Goals
+- Strengthen my programming fundamentals.
+- Build meaningful projects.
+- Improve problem-solving skills.
+- Prepare for software development internships.
+
+### 📫 Connect with me
+- GitHub: [Ananya9682](https://github.com/Ananya9682)
